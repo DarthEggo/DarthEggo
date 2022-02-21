@@ -2,6 +2,8 @@
 
 - JS Game Dev
 
+- ex unity dev
+
 - Working on "Slambert Legends" a strategy game
 
 - Creator of "WaffleIron" a JS game dev framework
