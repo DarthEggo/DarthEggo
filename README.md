@@ -2,7 +2,7 @@
 
 - JS Game Dev
 
-- ex unity dev
+- Ex unity dev
 
 - Working on "Slambert Legends" a strategy game
 
