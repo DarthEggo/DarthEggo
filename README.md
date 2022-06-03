@@ -7,7 +7,7 @@
 - Ki-Adi-Mundi and Mace-Windu bots, two reddit bots for the subreddit r/prequelmemes
 ### [](https://github.com/DarthEggo/DarthEggo#socials) You can reach out to me on the following socials:
 -  on Discord @ DarthEggo#1727, 
--  on Reddit @ u/DarthEggo1
+
 ### [](https://github.com/DarthEggo/DarthEggo#stats) Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthEggo&show_icons=true&theme=tokyonight)
 
