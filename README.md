@@ -5,6 +5,7 @@
 - Slambert Legends, an unfinished 4x strategy game in collaboration with Nikita Bataev @ https://replit.com/@UrbanSkeleton
 - Scout's Honor, a simple Unity game I made to present to a boy scout troop.
 - Ki-Adi-Mundi and Mace-Windu bots, two reddit bots for the subreddit r/prequelmemes
+- AmericaScript, an ironic programming language made with unironic patriotism
 ### [](https://github.com/DarthEggo/DarthEggo#socials) You can reach out to me on the following socials:
 -  on Discord @ DarthEggo#1727, 
 
