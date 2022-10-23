@@ -1,4 +1,4 @@
-### [](https://github.com/DarthEggo/DarthEggo#intro) Hi, my name is Alex Wright
+### [](https://github.com/DarthEggo/DarthEggo#intro) Hi, my name is Alex
 - I'm a hobbyist programmer who has worked with Front-End, Back-End, Game Dev, among other things
 - I have experience in JS, Node.js,  C#, Python, HTML, and CSS
 ### [](https://github.com/DarthEggo/DarthEggo#projects) Some projects I've worked on
